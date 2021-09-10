@@ -26,10 +26,7 @@ On charge le package
 library(palmerpenguins)
 ```
 
-<<<<<<< HEAD
-=======
-
-Creation de conflit
+Résolution conflit
 ```{r}
 require("grDevices") # for colours
 x <- y <- seq(-4*pi, 4*pi, length.out = 27)
@@ -40,4 +37,3 @@ image(z, axes = FALSE, main = "Math can be beautiful ...",
 contour(z, add = TRUE, drawlabels = FALSE)
 ```
 
->>>>>>> aa4fe0f04716ba8f176388df2b1c8f9347f30ce5
