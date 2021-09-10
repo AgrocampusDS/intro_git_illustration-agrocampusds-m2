@@ -19,8 +19,10 @@ install.packages("palmerpenguins")
 
 L'objectif de cette classe est de proposer des représentations graphiques de ces données en collaborant à l'aide de l'outil git.
 
-on charge le package
+```
+
+On charge le package
 ```{r load_package}
 library(palmerpenguins)
-
 ```
+
